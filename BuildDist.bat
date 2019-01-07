@@ -1,0 +1,1 @@
+pyinstaller -F ProcessEmployeeMain.py
